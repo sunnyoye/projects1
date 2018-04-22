@@ -1,0 +1,21 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+
+
+*What new skills have you learned?
+
+The new skills learned by me so far include usage of basic HTML tags such as heading tags, bold text tags, italic text tags, paragraph tags, image tags, hyperlink tags, indenting, HTML document format etc.
+
+* What has been easy?
+
+Everything has been easy and fun so far. All thanks to the way of teaching at Udacity.
+
+* What has been difficult?
+Nothing has been difficult as such, so far. Learning at Udacity has been easy and fun so far.
+
+
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+By rendering the text file multiple times to rectify the errors.
+Also, whenever and wherever I got stuck, I used the Google search engine to help me with my problems.
